@@ -2,7 +2,7 @@
 
 Task 1 
 	
-  It was solved by using Power BI connected to sql server; Power Bi file attached and the summary presentation (Task 1)- if there is no possibility to open powerBI 
+  It was solved by using Power BI connected to sql server; Power Bi file is too big to attache - the summary presentation (Task 1) with screenshots was done instead (PowerBi is available upon request)
 
 Task 2 
 	
